@@ -37,7 +37,3 @@ El proyecto permite analizar aspectos como:
 - Estado actual del inventario.
 - Clasificación de productos según niveles de stock.
 - Interacción entre distintos filtros y visualizaciones.
-
-## Dashboard
-
-En esta sección se incorporarán capturas de las visualizaciones desarrolladas en Power BI.
