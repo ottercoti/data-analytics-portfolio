@@ -24,7 +24,7 @@ Este portafolio reúne proyectos desarrollados durante mi proceso de formación 
 Proyecto orientado al análisis de información de ventas e inventario mediante preparación de datos, modelado, creación de medidas DAX y desarrollo de dashboards interactivos.
 
 📊 Dashboard
-[Ver proyecto]([ENLACE-AL-PROYECTO](https://github.com/ottercoti/data-analytics-portfolio/tree/main/proyectos/analisis-ventas-inventario-power-bi))
+[Ver proyecto](https://github.com/ottercoti/data-analytics-portfolio/tree/main/proyectos/analisis-ventas-inventario-power-bi)
 
 ## Contacto
 
