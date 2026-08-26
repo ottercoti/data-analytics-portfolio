@@ -23,7 +23,8 @@ Este portafolio reúne proyectos desarrollados durante mi proceso de formación 
 
 Proyecto orientado al análisis de información de ventas e inventario mediante preparación de datos, modelado, creación de medidas DAX y desarrollo de dashboards interactivos.
 
-📊 **Proyecto en desarrollo para el portafolio**
+📊 Dashboard
+[Ver proyecto](ENLACE-AL-PROYECTO)
 
 ## Contacto
 
